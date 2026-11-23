@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://audioextract.app/sitemap.xml
+Sitemap: https://freeaudioextractor.netlify.app/sitemap.xml
